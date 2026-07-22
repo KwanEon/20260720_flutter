@@ -9,7 +9,7 @@ main() {
   print(num);
 
   // const 변수에 값이 들어가면 고정
-  // update(X), 재선언(X), 타입 고정(X)
+  // update(X), 재선언(X), 타입 변경(X)
   // 실행할 때 초기화 되는 상수에 사용 불가
   const String greet = "Good Morning";
   
